@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{babbitt1960quarterly}
+Milton Babbitt.
+\newblock Twelve-tone invariants as compositional determinants.
+\newblock {\em The Musical Quarterly}, 46(2):246--259, 1960.
+
+\bibitem{bittner2017ismir}
+Rachel~M. Bittner, Brian McFee, Justin Salamon, Peter Li, and Juan~Pablo Bello.
+\newblock Deep salience representations for $f_0$ estimation in polyphonic
+  music.
+\newblock In {\em Proc. ISMIR}, 2017.
+
+\bibitem{donoho1994biometrika}
+David~L Donoho and Jain~M Johnstone.
+\newblock Ideal spatial adaptation by wavelet shrinkage.
+\newblock {\em Biometrika}, 81(3):425--425, 1994.
+
+\bibitem{lostanlen2015dafx}
+Vincent Lostanlen and St{\'e}phane Mallat.
+\newblock Wavelet scattering on the pitch spiral.
+\newblock In {\em Proc. DAFx}, 2015.
+
+\bibitem{mallat2012cpam}
+St{\'e}phane Mallat.
+\newblock Group invariant scattering.
+\newblock {\em Commun. Pure Appl. Math.}, 65(10):1331--1398, 2012.
+
+\bibitem{nieto2015ismir}
+Oriol Nieto and Juan~Pablo Bello.
+\newblock {MSAF}: {M}usic structure analysis framework.
+\newblock In {\em Proc. ISMIR}, 2015.
+
+\bibitem{vankranenburg2005chapter}
+Peter Van~Kranenburg and Eric Backer.
+\newblock Musical style recognition—a quantitative approach.
+\newblock In {\em Handbook of Pattern Recognition and Computer Vision}, pages
+  583--600. World Scientific, 2005.
+
+\bibitem{velarde2016ismir}
+Gissel Velarde, Tillman Weyde, Carlos Eduardo~Cancino Chac{\'o}n, David
+  Meredith, and Maarten Grachten.
+\newblock Composer recognition based on {2D}-filtered piano-rolls.
+\newblock In {\em Proc. ISMIR}, 2016.
+
+\end{thebibliography}

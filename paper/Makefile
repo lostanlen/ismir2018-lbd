@@ -1,0 +1,4 @@
+evince ISMIR2018template.pdf
+pdflatex ISMIR2018template.tex
+bibtex ISMIR2018template.aux
+pdflatex ISMIR2018template.tex
